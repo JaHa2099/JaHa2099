@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning Full Stack Development!
+- 👯 I’m looking to collaborate on anything that comes my way!
+- 📫 How to reach me on LinkedIn!
+
+Thank you for stopping by 😄
 <!--
 **JaHa2099/JaHa2099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
